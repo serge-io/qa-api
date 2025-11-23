@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache
+
+# venv
+.venv/
+env/
+
+# Git
+.git/
+.gitignore
+
+# Editor configs
+.vscode/
+.idea/
+
+# Host-only compose
+docker-compose.yml
+
+*.ruff_cache
+*.egg-info
